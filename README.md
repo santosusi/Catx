@@ -32,7 +32,4 @@ catx -2 file.txt
 catx -n -2 file.txt
 catx -3 file1.txt - file2.txt
 
-##👤 Author
-安陵 哲志（Tetsushi Anyo）
-Developed as a submission for System Programming I (2025)
-Rust + CLI + UNIX Tooling
+
